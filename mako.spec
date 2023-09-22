@@ -1,5 +1,5 @@
 Name     : mako
-Version  : 1.7.1
+Version  : 1.8.0
 Release  : 1
 URL      : https://github.com/emersion/mako
 Source0  : https://github.com/emersion/mako/archive/refs/tags/v%{version}.tar.gz
